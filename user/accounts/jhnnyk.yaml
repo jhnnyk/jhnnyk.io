@@ -1,0 +1,11 @@
+email: jhnnyk@gmail.com
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+fullname: 'John Knotts'
+title: 'Site Admin'
+state: enabled
+hashed_password: $2y$10$EX0SITT/DF/RJHPdA1WQ8.MRHDEzbOjjhhsaXxzRsGzQV954ilKYq
